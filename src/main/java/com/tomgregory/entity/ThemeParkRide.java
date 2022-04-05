@@ -1,5 +1,5 @@
 package com.tomgregory.entity;
-//test diff
+//test diff second time
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
